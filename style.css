@@ -2,9 +2,15 @@ body {
   background-color: rgb(255,131,0)
 }
 
+.channel-orange {
+  color: white;
+  font-size: 180px;
+  font-size: 4vw;
+}
+
 .center {
   position: absolute;
-  top: 50%;
+  top: 25%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -75%);
   }
