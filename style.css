@@ -1,11 +1,9 @@
 body {
-  background-color: rgb(255,131,0)
+  background-image: url("background.png")
 }
 
-.channel-orange {
-  color: white;
-  font-size: 180px;
-  font-size: 4vw;
+.text-font {
+  font-family: 'Inconsolata';
 }
 
 .center {
